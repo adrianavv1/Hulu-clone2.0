@@ -4,7 +4,6 @@ import {
     BadgeCheckIcon,
     CollectionIcon,
     HomeIcon,
-    LightingBoltIcon,
     LightningBoltIcon,
     SearchIcon,
     UserIcon,
